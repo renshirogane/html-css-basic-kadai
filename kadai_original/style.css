@@ -1,0 +1,36 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 1rem;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    margin-right: 0.25em;
+    border-bottom: solid 2px rgb(228, 228, 21); 
+}
+
+#basic  {
+    text-align: right;
+}
+
+#basic h1, #basic h2, #basic p {
+    text-align: right;
+}
+
+p {
+    font-weight: bold;
+    letter-spacing: 0.25em; 
+    color: rgb(133, 133, 133);
+}
+
+h2 {
+    font-weight: bold;
+    letter-spacing: 0.25em; 
+    color: rgb(81, 81, 81);
+}
